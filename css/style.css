@@ -1,0 +1,85 @@
+
+
+.header {
+	color: black;
+}
+.main {
+}
+.main-contents {
+	
+}
+
+.main-contents-title {
+	color: rgb(54, 131, 6);
+}
+
+
+.main-back {
+	color: black;
+	opacity: 0.3;
+}
+
+
+.list-contents a {
+	color: rgb(155, 107, 4);
+}
+
+.main-back a {
+	opacity: 0.5;
+	color: yellow;
+}
+
+.main-title {
+	color: rgb(5, 79, 54);
+}
+.main-image {
+}
+.main-author {
+	
+}
+.main-intro {
+	color: rgb(104, 4, 4);
+}
+.main-benefits {
+}
+.main-title-benefits {
+	color: aqua;
+}
+.main-benefits-list {
+	color: rgb(42, 208, 13);
+}
+
+.stress {
+	color: brown;
+}
+
+
+.main-title-fitness {
+	color: rgb(18, 137, 7);
+}
+.main-health {
+	color: brown;
+}
+.main-title-cancer {
+	color: rgb(209, 163, 35);
+}
+.main-title-obesity {
+	color: rgb(195, 12, 155);
+}
+.main-diabetes-prevent {
+	color: rgb(9, 120, 9);
+}
+.main-mental-health {
+	color: rgb(14, 164, 219);
+}
+.main-memo {
+	color: rgb(165, 4, 15);
+}
+.footer {
+	color: blue;
+}
+
+.periodical {
+	color: rgb(201, 17, 229);
+}
+
